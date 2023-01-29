@@ -63,15 +63,19 @@ home.html
                 <header>
                     <div class=logo></div>
                     <div class=h>
-                    <a href="home.html" title="Home" style="color: darkred; text-decoration: none;"><b>Home</b></a></div>
+                    <a href="home.html" title="Home" 
+                    style="color: darkred; text-decoration: none;"><b>Home</b></a></div>
                     <div class="prod">
-                        <a href="products.html" title="Products" style="color: darkred; text-decoration: none;"><b>Products</b></a>
+                        <a href="products.html" title="Products" 
+                        style="color: darkred; text-decoration: none;"><b>Products</b></a>
                     </div>
                     <div class="people">
-                        <a href="people.html" title="People" style="color:darkred; text-decoration: none;"><b>People</b></a>
+                        <a href="people.html" title="People" 
+                        style="color:darkred; text-decoration: none;"><b>People</b></a>
                     </div>
                     <div class="contact">
-                        <a href="contact.html" title="Contact Us" style="color:darkred; text-decoration: none;"><b>Contact Us</b></a>
+                        <a href="contact.html" title="Contact Us" 
+                        style="color:darkred; text-decoration: none;"><b>Contact Us</b></a>
                     </div>
                 </header>
                 <div class="title">
@@ -80,9 +84,13 @@ home.html
                 <div class="content">
                     <div class="text">
                     <p><b>Welcome to our store</b></p>
-                    <p style="color:darkblue; font-family:'Tahoma'; font-size:20px;"> This is the Mobile Store Official Website</p>
+                    <p style="color:darkblue; font-family:'Tahoma'; font-size:20px;"> 
+                    This is the Mobile Store Official Website</p>
                     </div>
-                    <p>Our store provides various Types and models of Mobile phones which u wish to get. You can view our store's products in our products page and can choose your desired Mobile Phones and inform us, we will deliver it.</p>
+                    <p>Our store provides various Types and models of Mobile 
+                        phones which u wish to get. You can view our store's 
+                        products in our products page and can choose your 
+                        desired Mobile Phones and inform us, we will deliver it.</p>
                     <b>Benefits of using our store:</b>
                     <ul>
                         <li>1- yr Warranty</li>
@@ -90,7 +98,8 @@ home.html
                         <li>Cash on Delivery</li>
                         <li>EMI Available</li>
                         <li>Free accessories on payment above Rs.50000</li></ul>
-                    <div style="text-align: center;color:mediumaquamarine;font-size:20px;"><b>Kindly use our services!</b></div>
+                    <div style="text-align: center;color:mediumaquamarine;font-size:20px;">
+                    <b>Kindly use our services!</b></div>
 
                 </div>
                 <div class="footer">
@@ -267,15 +276,19 @@ products.html
                 <header>
                     <div class=logo></div>
                     <div class=h>
-                    <a href="home.html" title="Home" style="color: darkred; text-decoration: none;"><b>Home</a></div>
+                    <a href="home.html" title="Home" 
+                    style="color: darkred; text-decoration: none;"><b>Home</a></div>
                     <div class="prod">
-                        <a href="products.html" title="Products" style="color: darkred; text-decoration: none;"><b>Products</b></a>
+                        <a href="products.html" title="Products" 
+                        style="color: darkred; text-decoration: none;"><b>Products</b></a>
                     </div>
                     <div class="people">
-                        <a href="people.html" title="People" style="color:darkred; text-decoration: none;"><b>People</b></a>
+                        <a href="people.html" title="People" 
+                        style="color:darkred; text-decoration: none;"><b>People</b></a>
                     </div>
                     <div class="contact">
-                        <a href="contact.html" title="Contact Us" style="color:darkred; text-decoration: none;"><b>Contact Us</b></a>
+                        <a href="contact.html" title="Contact Us" 
+                        style="color:darkred; text-decoration: none;"><b>Contact Us</b></a>
                     </div>
                 </header>
                 <div class="title">
@@ -286,17 +299,23 @@ products.html
                     <p>These are the products that are available now</p>
                     </div>
                     <div class="ph1"></div>
-                    <div class="l1"><p align="center"><b>oppo reno 3<br> Model:5398258<br>Price:38,999<br> Color: Black</b></p></div>
+                    <div class="l1"><p align="center"><b>oppo reno 3<br> 
+                    Model:5398258<br>Price:38,999<br> Color: Black</b></p></div>
                     <div class="ph2"></div>
-                    <div class="l2"><p align="center"><b>samsung m22<br>Model:29340934<br>Price:15.999<br>Color:marine blue</b></p></div>
+                    <div class="l2"><p align="center"><b>samsung m22<br>
+                    Model:29340934<br>Price:15.999<br>Color:marine blue</b></p></div>
                     <div class="ph3"></div>
-                    <div class="l3"><p align="center"><b>redmi note 12 pro<br>Model:4003284<br>Price:18,999<br>Color:Black</b></p></div>
+                    <div class="l3"><p align="center"><b>redmi note 12 pro<br>
+                    Model:4003284<br>Price:18,999<br>Color:Black</b></p></div>
                     <div class="ph4"></div>
-                    <div class="l4"><p align="center"><b>xiaomi x12 pro<br>Model:09429279<br>Price:23,799<br>Color:White</b></p></div>
+                    <div class="l4"><p align="center"><b>xiaomi x12 pro<br>
+                    Model:09429279<br>Price:23,799<br>Color:White</b></p></div>
                     <div class="ph5"></div>
-                    <div class="l5"><p align="center"><b>Apple iphone 13 pro <br>Model:2S3418<br>Price:1,30,999<br>Color:Grey</b></p></div>
+                    <div class="l5"><p align="center"><b>Apple iphone 13 pro <br>
+                    Model:2S3418<br>Price:1,30,999<br>Color:Grey</b></p></div>
                     <div class="ph6"></div>
-                    <div class="l6"><p align="center"><b>Apple iphone 13 pro max <br>Model:3489279<br>Price:1,69,999<br>Color:grey</b></p></div>
+                    <div class="l6"><p align="center"><b>Apple iphone 13 pro max <br>
+                    Model:3489279<br>Price:1,69,999<br>Color:grey</b></p></div>
          
                 </div>
                 <div class="bot"><p>To Order Online: Call 90987 97678, 97565 90787</p></div>
@@ -471,15 +490,19 @@ people.html
                 <header>
                     <div class=logo></div>
                     <div class=h>
-                    <a href="home.html" title="Home" style="color: darkred; text-decoration: none;"><b>Home</b></a></div>
+                    <a href="home.html" title="Home" 
+                    style="color: darkred; text-decoration: none;"><b>Home</b></a></div>
                     <div class="prod">
-                        <a href="products.html" title="Products" style="color: darkred; text-decoration: none;"><b>Products</b></a>
+                        <a href="products.html" title="Products" 
+                        style="color: darkred; text-decoration: none;"><b>Products</b></a>
                     </div>
                     <div class="people">
-                        <a href="people.html" title="People" style="color:darkred; text-decoration: none;"><b>People</b></a>
+                        <a href="people.html" title="People" 
+                        style="color:darkred; text-decoration: none;"><b>People</b></a>
                     </div>
                     <div class="contact">
-                        <a href="contact.html" title="Contact Us" style="color:darkred; text-decoration: none;"><b>Contact Us</b></a>
+                        <a href="contact.html" title="Contact Us" 
+                        style="color:darkred; text-decoration: none;"><b>Contact Us</b></a>
                     </div>
                 </header>
                 <div class="title">
@@ -491,24 +514,31 @@ people.html
                     <h4><u>Chairman</u></h4>
                     </div>
                     <div class="ceoph"></div>
-                    <div class="ceo"><p align="center"><b><h2>Mukesh Ambani</h2></b></div>
+                    <div class="ceo"><p align="center"><b>
+                        <h2>Mukesh Ambani</h2></b></div>
                     <br>
                     <div class="text">
                         <p><b><u>Head executives</u></b></p><br>
                     </div>
                     <div class="manph1"></div>
-                    <div class="man1"><p align="center"><b><h2>Nita Ambani</h2></b></p></div>
+                    <div class="man1"><p align="center"><b>
+                        <h2>Nita Ambani</h2></b></p></div>
                     <div class="manph2"></div>
-                    <div class="man2"><p><b><h2>Shah Rukh Khan</h2></b></p></div>
+                    <div class="man2"><p><b>
+                        <h2>Shah Rukh Khan</h2></b></p></div>
                     <br>
                     <div class="text"><p><b><u>Managers</u></b></p></div><br>
                     <div class="amph1"></div>
-                    <div class="am1"><p align="center"><b><h2>Isha Ambani</h2></b></p></div>
+                    <div class="am1"><p align="center"><b>
+                        <h2>Isha Ambani</h2></b></p></div>
                     <div class="amph2"></div>
-                    <div class="am2"><p align="center"><b><h2>Akash Ambani</h2></b></p></div>
+                    <div class="am2"><p align="center"><b>
+                        <h2>Akash Ambani</h2></b></p></div>
                     <div class="amph3"></div>
-                    <div class="am3"><p align="center"><b><h2>Deepika Padukone</h2></b></p></div><br>
-                    <div class="text">Thank you so much for your kind support!<br>Hope our products had helped you!</div>
+                    <div class="am3"><p align="center"><b>
+                        <h2>Deepika Padukone</h2></b></p></div><br>
+                    <div class="text">Thank you so much for your kind support!
+                        <br>Hope our products had helped you!</div>
                 </div>
                 <div class="footer">
                 <footer style="color:white">
@@ -547,15 +577,19 @@ contact.html
                 <header>
                     <div class=logo></div>
                     <div class=h>
-                    <a href="home.html" title="Home" style="color: darkred; text-decoration: none;"><b>Home</b></a></div>
+                    <a href="home.html" title="Home" 
+                    style="color: darkred; text-decoration: none;"><b>Home</b></a></div>
                     <div class="prod">
-                        <a href="products.html" title="Products" style="color: darkred; text-decoration: none;"><b>Products</b></a>
+                        <a href="products.html" title="Products"
+                         style="color: darkred; text-decoration: none;"><b>Products</b></a>
                     </div>
                     <div class="people">
-                        <a href="people.html" title="People" style="color:darkred; text-decoration: none;"><b>People</b></a>
+                        <a href="people.html" title="People" 
+                        style="color:darkred; text-decoration: none;"><b>People</b></a>
                     </div>
                     <div class="contact">
-                        <a href="contact.html" title="Contact Us" style="color:darkred; text-decoration: none;"><b>Contact Us</b></a>
+                        <a href="contact.html" title="Contact Us" 
+                        style="color:darkred; text-decoration: none;"><b>Contact Us</b></a>
                     </div>
                 </header>
                 <div class="title">
@@ -578,7 +612,8 @@ contact.html
                         <li><b>Email Id:</b>mobilestore88@gmail.com</li>
                         <li><b>Email Id:</b>mobilestore33@gmail.com</li>
                     </ul>
-                    <div style="text-align: center;color:violet;font-size:20px;"><b>Please use our services!</b></div>
+                    <div style="text-align: center;color:violet;font-size:20px;">
+                    <b>Please use our services!</b></div>
 
                 </div>
                 <div class="footer">
